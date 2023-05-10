@@ -14,4 +14,4 @@ function solve(arr) {
     console.log((regularWage + overtimeWage).toFixed(2));
 }
 
-solve([13.25, 15, 30, 1.5]);
+solve()
